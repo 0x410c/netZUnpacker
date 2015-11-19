@@ -1,0 +1,10 @@
+
+*.pdb
+
+netZUnpacker/bin/Debug/netZUnpacker.exe
+
+*.config
+
+*.exe
+
+*.manifest
